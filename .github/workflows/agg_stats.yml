@@ -31,8 +31,7 @@ jobs:
         run: python src/main.py
 
       - name: Upload Stats Output
-        if: always()
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v2
         with:
           name: org-stats
           path: |
