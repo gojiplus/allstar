@@ -1,0 +1,65 @@
+{
+  "total_orgs": 8,
+  "total_repos": 171,
+  "total_stars": 1434,
+  "total_forks": 390,
+  "total_open_issues": 76,
+  "org_details": [
+    {
+      "org_name": "gojiplus",
+      "total_repos": 20,
+      "total_stars": 335,
+      "total_forks": 91,
+      "total_open_issues": 35
+    },
+    {
+      "org_name": "in-rolls",
+      "total_repos": 39,
+      "total_stars": 128,
+      "total_forks": 44,
+      "total_open_issues": 4
+    },
+    {
+      "org_name": "appeler",
+      "total_repos": 23,
+      "total_stars": 375,
+      "total_forks": 91,
+      "total_open_issues": 4
+    },
+    {
+      "org_name": "matmulai",
+      "total_repos": 11,
+      "total_stars": 10,
+      "total_forks": 0,
+      "total_open_issues": 0
+    },
+    {
+      "org_name": "themains",
+      "total_repos": 23,
+      "total_stars": 177,
+      "total_forks": 28,
+      "total_open_issues": 12
+    },
+    {
+      "org_name": "geosensing",
+      "total_repos": 12,
+      "total_stars": 30,
+      "total_forks": 10,
+      "total_open_issues": 1
+    },
+    {
+      "org_name": "notnews",
+      "total_repos": 33,
+      "total_stars": 165,
+      "total_forks": 34,
+      "total_open_issues": 1
+    },
+    {
+      "org_name": "outside-edge",
+      "total_repos": 10,
+      "total_stars": 214,
+      "total_forks": 92,
+      "total_open_issues": 19
+    }
+  ]
+}
