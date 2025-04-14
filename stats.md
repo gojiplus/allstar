@@ -1,12 +1,18 @@
-# 📈 GitHub Organization Stats
+# 📈 GitHub Aggregate Stats
 
-- Total Organizations: **8**
-- Total Repositories: **171**
-- Total Stars: **1434**
-- Total Forks: **390**
-- Total Open Issues: **76**
+- Total Entities: **9**
+- Total Repositories: **263**
+- Total Stars: **1661**
+- Total Forks: **433**
+- Total Open Issues: **85**
 
-## 🚀 Organization Breakdown
+## 🚀 Detailed Breakdown
+
+### 🏢 [soodoku (User)](https://github.com/soodoku)
+- Repositories: 92
+- Stars: 227
+- Forks: 43
+- Open Issues: 9
 
 ### 🏢 [gojiplus](https://github.com/gojiplus)
 - Repositories: 20
