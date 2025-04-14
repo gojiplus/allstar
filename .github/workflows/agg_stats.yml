@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     env:
-      ORG_LIST: "org1, org2, org3"  # <-- User sets their orgs here
+      ORG_LIST: "gojiplus, soodoku, in-rolls, appeler, matmulai, themains, geosensing, notnews, outside-edge"
     steps:
       - uses: actions/checkout@v4
 
