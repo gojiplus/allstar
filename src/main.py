@@ -65,13 +65,18 @@ def main():
     stats = aggregate_stats(token, username)
 
     if output_format.upper() == "MARKDOWN":
-        stats_md = markdownify(json.dumps(stats, indent=4))
-        print(stats_md)
-        with open(os.getenv("GITHUB_OUTPUT", "stats.md"), "w") as md_file:
+        # Create proper markdown content
+        stats_md = f"""# Organization Statistics
+
+    - Organizations: {stats['organizations']}
+    - Repositories: {stats['repositories']}
+    - Total Commits: {stats['total_commits']}
+    """
+        with open("stats.md", "w") as md_file:
             md_file.write(stats_md)
     else:
         print(json.dumps(stats, indent=4))
-        with open(os.getenv("GITHUB_OUTPUT", "stats.json"), "w") as json_file:
+        with open("stats.json", "w") as json_file:
             json.dump(stats, json_file, indent=4)
 
 if __name__ == "__main__":
