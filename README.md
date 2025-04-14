@@ -104,6 +104,7 @@ stats.md
 
 stats.json
 
+```json
 {
   "total_entities": 4,
   "total_repos": 120,
@@ -127,5 +128,4 @@ stats.json
     }
   ]
 }
-
-
+```
