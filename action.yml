@@ -1,0 +1,26 @@
+name: "Allstar: Aggregate Organization Stats"
+description: "A GitHub Action to aggregate stats across all organizations you own."
+author: "soodoku"
+inputs:
+  token:
+    description: "GitHub Personal Access Token (PAT) or GITHUB_TOKEN"
+    required: true
+  output-format:
+    description: "The output format for stats (JSON or Markdown)"
+    required: false
+    default: "JSON"
+
+outputs:
+  stats:
+    description: "Aggregated stats across organizations."
+
+runs:
+  using: "docker"
+  image: "docker://python:3.10"
+  args:
+    - python
+    - /src/main.py
+
+branding:
+  icon: "graph"
+  color: "blue"

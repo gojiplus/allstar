@@ -1,0 +1,40 @@
+name: Aggregate Organization Stats
+
+on:
+  workflow_dispatch:  # Manual trigger from GitHub Actions UI
+  schedule:           # Scheduled trigger (every day at midnight UTC)
+    - cron: "0 0 * * *"
+
+jobs:
+  aggregate-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r src/requirements.txt
+
+      - name: Run Aggregator Action
+        env:
+          INPUT_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          INPUT_OUTPUT_FORMAT: "JSON"  # You can customize this to "MARKDOWN" if needed
+          GITHUB_ACTOR: ${{ github.actor }}
+        run: python src/main.py
+
+      - name: Upload Stats Output
+        if: always()
+        uses: actions/upload-artifact@v3
+        with:
+          name: org-stats
+          path: |
+            stats.json
+            stats.md
