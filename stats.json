@@ -1,21 +1,21 @@
 {
   "total_entities": 9,
-  "total_repos": 263,
-  "total_stars": 1661,
+  "total_repos": 262,
+  "total_stars": 1660,
   "total_forks": 433,
   "total_open_issues": 85,
   "details": [
     {
       "name": "soodoku (User)",
-      "total_repos": 92,
-      "total_stars": 227,
+      "total_repos": 91,
+      "total_stars": 225,
       "total_forks": 43,
       "total_open_issues": 9
     },
     {
       "name": "gojiplus",
       "total_repos": 20,
-      "total_stars": 335,
+      "total_stars": 336,
       "total_forks": 91,
       "total_open_issues": 35
     },
