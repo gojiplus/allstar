@@ -1,7 +1,7 @@
 {
   "total_entities": 9,
   "total_repos": 251,
-  "total_stars": 1641,
+  "total_stars": 1642,
   "total_forks": 431,
   "total_open_issues": 83,
   "details": [
@@ -29,7 +29,7 @@
     {
       "name": "appeler",
       "total_repos": 25,
-      "total_stars": 375,
+      "total_stars": 376,
       "total_forks": 91,
       "total_open_issues": 3
     },
