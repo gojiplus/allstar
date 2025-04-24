@@ -1,7 +1,7 @@
 {
   "total_entities": 9,
-  "total_repos": 252,
-  "total_stars": 1645,
+  "total_repos": 254,
+  "total_stars": 1650,
   "total_forks": 432,
   "total_open_issues": 82,
   "details": [
@@ -14,8 +14,8 @@
     },
     {
       "name": "gojiplus",
-      "total_repos": 32,
-      "total_stars": 380,
+      "total_repos": 34,
+      "total_stars": 382,
       "total_forks": 109,
       "total_open_issues": 37
     },
@@ -29,7 +29,7 @@
     {
       "name": "appeler",
       "total_repos": 25,
-      "total_stars": 377,
+      "total_stars": 378,
       "total_forks": 92,
       "total_open_issues": 3
     },
@@ -43,7 +43,7 @@
     {
       "name": "themains",
       "total_repos": 25,
-      "total_stars": 181,
+      "total_stars": 182,
       "total_forks": 28,
       "total_open_issues": 12
     },
@@ -64,7 +64,7 @@
     {
       "name": "outside-edge",
       "total_repos": 10,
-      "total_stars": 216,
+      "total_stars": 217,
       "total_forks": 92,
       "total_open_issues": 19
     }
