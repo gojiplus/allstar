@@ -1,7 +1,7 @@
 {
   "total_entities": 9,
-  "total_repos": 254,
-  "total_stars": 1650,
+  "total_repos": 255,
+  "total_stars": 1652,
   "total_forks": 432,
   "total_open_issues": 82,
   "details": [
@@ -14,15 +14,15 @@
     },
     {
       "name": "gojiplus",
-      "total_repos": 34,
-      "total_stars": 382,
+      "total_repos": 35,
+      "total_stars": 383,
       "total_forks": 109,
       "total_open_issues": 37
     },
     {
       "name": "in-rolls",
       "total_repos": 39,
-      "total_stars": 128,
+      "total_stars": 129,
       "total_forks": 44,
       "total_open_issues": 4
     },
