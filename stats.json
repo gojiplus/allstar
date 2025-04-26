@@ -1,20 +1,20 @@
 {
   "total_entities": 9,
   "total_repos": 255,
-  "total_stars": 1652,
+  "total_stars": 1653,
   "total_forks": 432,
   "total_open_issues": 82,
   "details": [
     {
       "name": "soodoku (User)",
-      "total_repos": 60,
+      "total_repos": 59,
       "total_stars": 130,
       "total_forks": 20,
       "total_open_issues": 5
     },
     {
       "name": "gojiplus",
-      "total_repos": 35,
+      "total_repos": 36,
       "total_stars": 383,
       "total_forks": 109,
       "total_open_issues": 37
@@ -43,7 +43,7 @@
     {
       "name": "themains",
       "total_repos": 25,
-      "total_stars": 182,
+      "total_stars": 183,
       "total_forks": 28,
       "total_open_issues": 12
     },

@@ -2,20 +2,20 @@
 
 - Total Entities: **9**
 - Total Repositories: **255**
-- Total Stars: **1652**
+- Total Stars: **1653**
 - Total Forks: **432**
 - Total Open Issues: **82**
 
 ## 🚀 Detailed Breakdown
 
 ### 🏢 [soodoku (User)](https://github.com/soodoku)
-- Repositories: 60
+- Repositories: 59
 - Stars: 130
 - Forks: 20
 - Open Issues: 5
 
 ### 🏢 [gojiplus](https://github.com/gojiplus)
-- Repositories: 35
+- Repositories: 36
 - Stars: 383
 - Forks: 109
 - Open Issues: 37
@@ -40,7 +40,7 @@
 
 ### 🏢 [themains](https://github.com/themains)
 - Repositories: 25
-- Stars: 182
+- Stars: 183
 - Forks: 28
 - Open Issues: 12
 
