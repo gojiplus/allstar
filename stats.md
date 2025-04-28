@@ -2,7 +2,7 @@
 
 - Total Entities: **9**
 - Total Repositories: **255**
-- Total Stars: **1653**
+- Total Stars: **1652**
 - Total Forks: **432**
 - Total Open Issues: **82**
 
@@ -58,7 +58,7 @@
 
 ### 🏢 [outside-edge](https://github.com/outside-edge)
 - Repositories: 10
-- Stars: 217
+- Stars: 216
 - Forks: 92
 - Open Issues: 19
 
