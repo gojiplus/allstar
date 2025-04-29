@@ -2,7 +2,7 @@
 
 - Total Entities: **9**
 - Total Repositories: **255**
-- Total Stars: **1652**
+- Total Stars: **1655**
 - Total Forks: **432**
 - Total Open Issues: **82**
 
@@ -16,13 +16,13 @@
 
 ### 🏢 [gojiplus](https://github.com/gojiplus)
 - Repositories: 36
-- Stars: 383
+- Stars: 385
 - Forks: 109
 - Open Issues: 37
 
 ### 🏢 [in-rolls](https://github.com/in-rolls)
 - Repositories: 39
-- Stars: 129
+- Stars: 130
 - Forks: 44
 - Open Issues: 4
 
