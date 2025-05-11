@@ -1,22 +1,22 @@
 {
   "total_entities": 9,
-  "total_repos": 259,
-  "total_stars": 1660,
-  "total_forks": 432,
+  "total_repos": 263,
+  "total_stars": 1685,
+  "total_forks": 435,
   "total_open_issues": 82,
   "details": [
     {
       "name": "soodoku (User)",
-      "total_repos": 60,
-      "total_stars": 131,
+      "total_repos": 62,
+      "total_stars": 132,
       "total_forks": 20,
       "total_open_issues": 5
     },
     {
       "name": "gojiplus",
-      "total_repos": 40,
-      "total_stars": 390,
-      "total_forks": 109,
+      "total_repos": 42,
+      "total_stars": 413,
+      "total_forks": 112,
       "total_open_issues": 37
     },
     {
@@ -57,7 +57,7 @@
     {
       "name": "notnews",
       "total_repos": 38,
-      "total_stars": 193,
+      "total_stars": 194,
       "total_forks": 37,
       "total_open_issues": 2
     },
