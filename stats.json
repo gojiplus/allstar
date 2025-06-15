@@ -1,13 +1,13 @@
 {
   "total_entities": 9,
-  "total_repos": 267,
-  "total_stars": 1722,
+  "total_repos": 268,
+  "total_stars": 1727,
   "total_forks": 438,
   "total_open_issues": 85,
   "details": [
     {
       "name": "soodoku (User)",
-      "total_repos": 65,
+      "total_repos": 66,
       "total_stars": 136,
       "total_forks": 20,
       "total_open_issues": 5
@@ -15,16 +15,16 @@
     {
       "name": "gojiplus",
       "total_repos": 43,
-      "total_stars": 435,
-      "total_forks": 113,
-      "total_open_issues": 40
+      "total_stars": 436,
+      "total_forks": 112,
+      "total_open_issues": 39
     },
     {
       "name": "in-rolls",
       "total_repos": 39,
-      "total_stars": 131,
+      "total_stars": 132,
       "total_forks": 44,
-      "total_open_issues": 4
+      "total_open_issues": 5
     },
     {
       "name": "appeler",
@@ -36,7 +36,7 @@
     {
       "name": "matmulai",
       "total_repos": 10,
-      "total_stars": 9,
+      "total_stars": 10,
       "total_forks": 0,
       "total_open_issues": 0
     },
@@ -57,15 +57,15 @@
     {
       "name": "notnews",
       "total_repos": 38,
-      "total_stars": 195,
+      "total_stars": 196,
       "total_forks": 38,
       "total_open_issues": 2
     },
     {
       "name": "outside-edge",
       "total_repos": 10,
-      "total_stars": 217,
-      "total_forks": 92,
+      "total_stars": 218,
+      "total_forks": 93,
       "total_open_issues": 19
     }
   ]
