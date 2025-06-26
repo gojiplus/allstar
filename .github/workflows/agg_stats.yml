@@ -12,7 +12,7 @@ jobs:
       contents: write
     env:
       GITHUB_USER: "soodoku"
-      ORG_LIST: "USER, gojiplus, in-rolls, appeler, matmulai, themains, geosensing, notnews, outside-edge" 
+      ORG_LIST: "USER, gojiplus, in-rolls, appeler, matmulai, themains, finite-sample, geosensing, notnews, outside-edge" 
     steps:
       - uses: actions/checkout@v4
 
