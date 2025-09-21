@@ -1,9 +1,9 @@
 {
   "total_entities": 10,
-  "total_repos": 305,
-  "total_stars": 1809,
-  "total_forks": 444,
-  "total_open_issues": 56,
+  "total_repos": 306,
+  "total_stars": 1914,
+  "total_forks": 448,
+  "total_open_issues": 54,
   "details": [
     {
       "name": "soodoku (User)",
@@ -14,8 +14,8 @@
     },
     {
       "name": "gojiplus",
-      "total_repos": 42,
-      "total_stars": 413,
+      "total_repos": 43,
+      "total_stars": 416,
       "total_forks": 109,
       "total_open_issues": 11
     },
@@ -31,12 +31,12 @@
       "total_repos": 25,
       "total_stars": 388,
       "total_forks": 94,
-      "total_open_issues": 6
+      "total_open_issues": 4
     },
     {
       "name": "matmulai",
-      "total_repos": 10,
-      "total_stars": 14,
+      "total_repos": 9,
+      "total_stars": 12,
       "total_forks": 0,
       "total_open_issues": 2
     },
@@ -49,9 +49,9 @@
     },
     {
       "name": "finite-sample",
-      "total_repos": 46,
-      "total_stars": 89,
-      "total_forks": 6,
+      "total_repos": 47,
+      "total_stars": 193,
+      "total_forks": 10,
       "total_open_issues": 0
     },
     {
