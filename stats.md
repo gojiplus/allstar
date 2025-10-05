@@ -2,9 +2,9 @@
 
 - Total Entities: **10**
 - Total Repositories: **309**
-- Total Stars: **1959**
+- Total Stars: **1973**
 - Total Forks: **450**
-- Total Open Issues: **52**
+- Total Open Issues: **53**
 
 ## 🚀 Detailed Breakdown
 
@@ -28,7 +28,7 @@
 
 ### 🏢 [appeler](https://github.com/appeler)
 - Repositories: 25
-- Stars: 389
+- Stars: 390
 - Forks: 94
 - Open Issues: 4
 
@@ -46,9 +46,9 @@
 
 ### 🏢 [finite-sample](https://github.com/finite-sample)
 - Repositories: 50
-- Stars: 234
+- Stars: 248
 - Forks: 11
-- Open Issues: 0
+- Open Issues: 1
 
 ### 🏢 [geosensing](https://github.com/geosensing)
 - Repositories: 12
@@ -58,7 +58,7 @@
 
 ### 🏢 [notnews](https://github.com/notnews)
 - Repositories: 38
-- Stars: 201
+- Stars: 200
 - Forks: 38
 - Open Issues: 2
 
