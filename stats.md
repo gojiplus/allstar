@@ -1,8 +1,8 @@
 # 📈 GitHub Aggregate Stats
 
 - Total Entities: **10**
-- Total Repositories: **309**
-- Total Stars: **1978**
+- Total Repositories: **310**
+- Total Stars: **1981**
 - Total Forks: **454**
 - Total Open Issues: **53**
 
@@ -16,7 +16,7 @@
 
 ### 🏢 [gojiplus](https://github.com/gojiplus)
 - Repositories: 43
-- Stars: 418
+- Stars: 419
 - Forks: 110
 - Open Issues: 11
 
@@ -45,8 +45,8 @@
 - Open Issues: 5
 
 ### 🏢 [finite-sample](https://github.com/finite-sample)
-- Repositories: 50
-- Stars: 249
+- Repositories: 51
+- Stars: 251
 - Forks: 11
 - Open Issues: 0
 
