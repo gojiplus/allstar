@@ -1,13 +1,13 @@
 {
   "total_entities": 10,
-  "total_repos": 310,
-  "total_stars": 1981,
-  "total_forks": 454,
+  "total_repos": 311,
+  "total_stars": 1983,
+  "total_forks": 455,
   "total_open_issues": 53,
   "details": [
     {
       "name": "soodoku (User)",
-      "total_repos": 54,
+      "total_repos": 55,
       "total_stars": 119,
       "total_forks": 19,
       "total_open_issues": 5
@@ -22,14 +22,14 @@
     {
       "name": "in-rolls",
       "total_repos": 41,
-      "total_stars": 137,
-      "total_forks": 47,
+      "total_stars": 138,
+      "total_forks": 48,
       "total_open_issues": 4
     },
     {
       "name": "appeler",
       "total_repos": 25,
-      "total_stars": 392,
+      "total_stars": 393,
       "total_forks": 95,
       "total_open_issues": 4
     },
@@ -43,14 +43,14 @@
     {
       "name": "themains",
       "total_repos": 26,
-      "total_stars": 193,
+      "total_stars": 192,
       "total_forks": 29,
       "total_open_issues": 5
     },
     {
       "name": "finite-sample",
       "total_repos": 51,
-      "total_stars": 251,
+      "total_stars": 252,
       "total_forks": 11,
       "total_open_issues": 0
     },
