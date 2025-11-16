@@ -1,15 +1,15 @@
 {
   "total_entities": 10,
-  "total_repos": 312,
-  "total_stars": 1984,
-  "total_forks": 455,
-  "total_open_issues": 54,
+  "total_repos": 314,
+  "total_stars": 1989,
+  "total_forks": 457,
+  "total_open_issues": 53,
   "details": [
     {
       "name": "soodoku (User)",
-      "total_repos": 55,
-      "total_stars": 118,
-      "total_forks": 18,
+      "total_repos": 56,
+      "total_stars": 119,
+      "total_forks": 19,
       "total_open_issues": 5
     },
     {
@@ -21,7 +21,7 @@
     },
     {
       "name": "in-rolls",
-      "total_repos": 41,
+      "total_repos": 42,
       "total_stars": 138,
       "total_forks": 49,
       "total_open_issues": 4
@@ -29,8 +29,8 @@
     {
       "name": "appeler",
       "total_repos": 25,
-      "total_stars": 393,
-      "total_forks": 95,
+      "total_stars": 395,
+      "total_forks": 96,
       "total_open_issues": 4
     },
     {
@@ -43,16 +43,16 @@
     {
       "name": "themains",
       "total_repos": 26,
-      "total_stars": 193,
+      "total_stars": 194,
       "total_forks": 29,
       "total_open_issues": 5
     },
     {
       "name": "finite-sample",
       "total_repos": 52,
-      "total_stars": 252,
+      "total_stars": 253,
       "total_forks": 11,
-      "total_open_issues": 1
+      "total_open_issues": 0
     },
     {
       "name": "geosensing",
