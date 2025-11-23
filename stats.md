@@ -1,28 +1,28 @@
 # 📈 GitHub Aggregate Stats
 
 - Total Entities: **10**
-- Total Repositories: **314**
-- Total Stars: **1989**
+- Total Repositories: **320**
+- Total Stars: **1996**
 - Total Forks: **457**
-- Total Open Issues: **53**
+- Total Open Issues: **55**
 
 ## 🚀 Detailed Breakdown
 
 ### 🏢 [soodoku (User)](https://github.com/soodoku)
-- Repositories: 56
-- Stars: 119
+- Repositories: 59
+- Stars: 118
 - Forks: 19
 - Open Issues: 5
 
 ### 🏢 [gojiplus](https://github.com/gojiplus)
-- Repositories: 43
-- Stars: 419
+- Repositories: 46
+- Stars: 423
 - Forks: 110
-- Open Issues: 11
+- Open Issues: 12
 
 ### 🏢 [in-rolls](https://github.com/in-rolls)
 - Repositories: 42
-- Stars: 138
+- Stars: 139
 - Forks: 49
 - Open Issues: 4
 
@@ -46,7 +46,7 @@
 
 ### 🏢 [finite-sample](https://github.com/finite-sample)
 - Repositories: 52
-- Stars: 253
+- Stars: 255
 - Forks: 11
 - Open Issues: 0
 
@@ -58,7 +58,7 @@
 
 ### 🏢 [notnews](https://github.com/notnews)
 - Repositories: 38
-- Stars: 200
+- Stars: 201
 - Forks: 38
 - Open Issues: 2
 
@@ -66,5 +66,5 @@
 - Repositories: 11
 - Stars: 229
 - Forks: 95
-- Open Issues: 20
+- Open Issues: 21
 
