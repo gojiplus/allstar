@@ -2,9 +2,9 @@
 
 - Total Entities: **10**
 - Total Repositories: **323**
-- Total Stars: **2004**
-- Total Forks: **458**
-- Total Open Issues: **53**
+- Total Stars: **2006**
+- Total Forks: **459**
+- Total Open Issues: **60**
 
 ## 🚀 Detailed Breakdown
 
@@ -16,19 +16,19 @@
 
 ### 🏢 [gojiplus](https://github.com/gojiplus)
 - Repositories: 48
-- Stars: 425
+- Stars: 424
 - Forks: 110
-- Open Issues: 10
+- Open Issues: 15
 
 ### 🏢 [in-rolls](https://github.com/in-rolls)
 - Repositories: 42
 - Stars: 139
 - Forks: 49
-- Open Issues: 4
+- Open Issues: 5
 
 ### 🏢 [appeler](https://github.com/appeler)
 - Repositories: 25
-- Stars: 396
+- Stars: 399
 - Forks: 96
 - Open Issues: 3
 
@@ -47,14 +47,14 @@
 ### 🏢 [finite-sample](https://github.com/finite-sample)
 - Repositories: 53
 - Stars: 258
-- Forks: 12
+- Forks: 13
 - Open Issues: 0
 
 ### 🏢 [geosensing](https://github.com/geosensing)
 - Repositories: 12
 - Stars: 30
 - Forks: 10
-- Open Issues: 0
+- Open Issues: 1
 
 ### 🏢 [notnews](https://github.com/notnews)
 - Repositories: 38
