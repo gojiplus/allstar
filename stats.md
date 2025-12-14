@@ -2,9 +2,9 @@
 
 - Total Entities: **10**
 - Total Repositories: **323**
-- Total Stars: **2006**
-- Total Forks: **459**
-- Total Open Issues: **60**
+- Total Stars: **2011**
+- Total Forks: **461**
+- Total Open Issues: **59**
 
 ## 🚀 Detailed Breakdown
 
@@ -18,7 +18,7 @@
 - Repositories: 48
 - Stars: 424
 - Forks: 110
-- Open Issues: 15
+- Open Issues: 14
 
 ### 🏢 [in-rolls](https://github.com/in-rolls)
 - Repositories: 42
@@ -34,7 +34,7 @@
 
 ### 🏢 [matmulai](https://github.com/matmulai)
 - Repositories: 9
-- Stars: 12
+- Stars: 13
 - Forks: 0
 - Open Issues: 2
 
@@ -46,7 +46,7 @@
 
 ### 🏢 [finite-sample](https://github.com/finite-sample)
 - Repositories: 53
-- Stars: 258
+- Stars: 261
 - Forks: 13
 - Open Issues: 0
 
@@ -64,7 +64,7 @@
 
 ### 🏢 [outside-edge](https://github.com/outside-edge)
 - Repositories: 11
-- Stars: 230
-- Forks: 95
+- Stars: 231
+- Forks: 97
 - Open Issues: 21
 
