@@ -2,8 +2,8 @@
 
 - Total Entities: **10**
 - Total Repositories: **323**
-- Total Stars: **2011**
-- Total Forks: **461**
+- Total Stars: **2019**
+- Total Forks: **462**
 - Total Open Issues: **59**
 
 ## 🚀 Detailed Breakdown
@@ -18,17 +18,17 @@
 - Repositories: 48
 - Stars: 424
 - Forks: 110
-- Open Issues: 14
+- Open Issues: 15
 
 ### 🏢 [in-rolls](https://github.com/in-rolls)
 - Repositories: 42
-- Stars: 139
+- Stars: 140
 - Forks: 49
 - Open Issues: 5
 
 ### 🏢 [appeler](https://github.com/appeler)
 - Repositories: 25
-- Stars: 399
+- Stars: 400
 - Forks: 96
 - Open Issues: 3
 
@@ -39,13 +39,13 @@
 - Open Issues: 2
 
 ### 🏢 [themains](https://github.com/themains)
-- Repositories: 26
-- Stars: 194
+- Repositories: 25
+- Stars: 199
 - Forks: 29
-- Open Issues: 5
+- Open Issues: 4
 
 ### 🏢 [finite-sample](https://github.com/finite-sample)
-- Repositories: 53
+- Repositories: 54
 - Stars: 261
 - Forks: 13
 - Open Issues: 0
@@ -58,8 +58,8 @@
 
 ### 🏢 [notnews](https://github.com/notnews)
 - Repositories: 38
-- Stars: 202
-- Forks: 38
+- Stars: 203
+- Forks: 39
 - Open Issues: 2
 
 ### 🏢 [outside-edge](https://github.com/outside-edge)
