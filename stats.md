@@ -3,8 +3,8 @@
 - Total Entities: **10**
 - Total Repositories: **325**
 - Total Stars: **2043**
-- Total Forks: **464**
-- Total Open Issues: **68**
+- Total Forks: **465**
+- Total Open Issues: **69**
 
 ## 🚀 Detailed Breakdown
 
@@ -16,9 +16,9 @@
 
 ### 🏢 [gojiplus](https://github.com/gojiplus)
 - Repositories: 48
-- Stars: 429
+- Stars: 428
 - Forks: 110
-- Open Issues: 21
+- Open Issues: 22
 
 ### 🏢 [in-rolls](https://github.com/in-rolls)
 - Repositories: 43
@@ -28,7 +28,7 @@
 
 ### 🏢 [appeler](https://github.com/appeler)
 - Repositories: 25
-- Stars: 399
+- Stars: 400
 - Forks: 94
 - Open Issues: 3
 
@@ -41,7 +41,7 @@
 ### 🏢 [themains](https://github.com/themains)
 - Repositories: 25
 - Stars: 200
-- Forks: 30
+- Forks: 31
 - Open Issues: 4
 
 ### 🏢 [finite-sample](https://github.com/finite-sample)
