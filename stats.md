@@ -2,15 +2,15 @@
 
 - Total Entities: **10**
 - Total Repositories: **325**
-- Total Stars: **2048**
+- Total Stars: **2054**
 - Total Forks: **468**
-- Total Open Issues: **70**
+- Total Open Issues: **68**
 
 ## 🚀 Detailed Breakdown
 
 ### 🏢 [soodoku (User)](https://github.com/soodoku)
 - Repositories: 60
-- Stars: 119
+- Stars: 120
 - Forks: 19
 - Open Issues: 6
 
@@ -18,11 +18,11 @@
 - Repositories: 48
 - Stars: 429
 - Forks: 110
-- Open Issues: 22
+- Open Issues: 23
 
 ### 🏢 [in-rolls](https://github.com/in-rolls)
 - Repositories: 43
-- Stars: 144
+- Stars: 145
 - Forks: 50
 - Open Issues: 6
 
@@ -36,7 +36,7 @@
 - Repositories: 9
 - Stars: 13
 - Forks: 0
-- Open Issues: 4
+- Open Issues: 1
 
 ### 🏢 [themains](https://github.com/themains)
 - Repositories: 25
@@ -46,13 +46,13 @@
 
 ### 🏢 [finite-sample](https://github.com/finite-sample)
 - Repositories: 54
-- Stars: 271
+- Stars: 272
 - Forks: 14
 - Open Issues: 0
 
 ### 🏢 [geosensing](https://github.com/geosensing)
 - Repositories: 12
-- Stars: 31
+- Stars: 33
 - Forks: 11
 - Open Issues: 2
 
@@ -64,7 +64,7 @@
 
 ### 🏢 [outside-edge](https://github.com/outside-edge)
 - Repositories: 11
-- Stars: 235
+- Stars: 236
 - Forks: 98
 - Open Issues: 21
 
