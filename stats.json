@@ -1,35 +1,35 @@
 {
   "total_entities": 10,
-  "total_repos": 330,
-  "total_stars": 2073,
+  "total_repos": 337,
+  "total_stars": 2091,
   "total_forks": 468,
-  "total_open_issues": 80,
+  "total_open_issues": 85,
   "details": [
     {
       "name": "soodoku (User)",
-      "total_repos": 61,
-      "total_stars": 121,
+      "total_repos": 63,
+      "total_stars": 122,
       "total_forks": 19,
-      "total_open_issues": 7
+      "total_open_issues": 6
     },
     {
       "name": "gojiplus",
-      "total_repos": 51,
-      "total_stars": 437,
+      "total_repos": 52,
+      "total_stars": 440,
       "total_forks": 109,
-      "total_open_issues": 28
+      "total_open_issues": 32
     },
     {
       "name": "in-rolls",
       "total_repos": 43,
-      "total_stars": 146,
+      "total_stars": 148,
       "total_forks": 50,
       "total_open_issues": 6
     },
     {
       "name": "appeler",
       "total_repos": 25,
-      "total_stars": 405,
+      "total_stars": 406,
       "total_forks": 95,
       "total_open_issues": 4
     },
@@ -49,8 +49,8 @@
     },
     {
       "name": "finite-sample",
-      "total_repos": 55,
-      "total_stars": 273,
+      "total_repos": 59,
+      "total_stars": 278,
       "total_forks": 16,
       "total_open_issues": 0
     },
@@ -59,21 +59,21 @@
       "total_repos": 12,
       "total_stars": 35,
       "total_forks": 11,
-      "total_open_issues": 5
+      "total_open_issues": 6
     },
     {
       "name": "notnews",
       "total_repos": 38,
-      "total_stars": 205,
+      "total_stars": 209,
       "total_forks": 39,
       "total_open_issues": 2
     },
     {
       "name": "outside-edge",
       "total_repos": 11,
-      "total_stars": 237,
+      "total_stars": 239,
       "total_forks": 98,
-      "total_open_issues": 20
+      "total_open_issues": 21
     }
   ]
 }
