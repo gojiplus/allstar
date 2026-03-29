@@ -1,28 +1,28 @@
 {
   "total_entities": 10,
-  "total_repos": 337,
-  "total_stars": 2091,
-  "total_forks": 468,
-  "total_open_issues": 85,
+  "total_repos": 338,
+  "total_stars": 2098,
+  "total_forks": 470,
+  "total_open_issues": 98,
   "details": [
     {
       "name": "soodoku (User)",
-      "total_repos": 63,
+      "total_repos": 62,
       "total_stars": 122,
-      "total_forks": 19,
+      "total_forks": 20,
       "total_open_issues": 6
     },
     {
       "name": "gojiplus",
-      "total_repos": 52,
-      "total_stars": 440,
-      "total_forks": 109,
-      "total_open_issues": 32
+      "total_repos": 53,
+      "total_stars": 441,
+      "total_forks": 110,
+      "total_open_issues": 36
     },
     {
       "name": "in-rolls",
       "total_repos": 43,
-      "total_stars": 148,
+      "total_stars": 149,
       "total_forks": 50,
       "total_open_issues": 6
     },
@@ -38,28 +38,28 @@
       "total_repos": 9,
       "total_stars": 13,
       "total_forks": 0,
-      "total_open_issues": 4
+      "total_open_issues": 6
     },
     {
       "name": "themains",
       "total_repos": 25,
-      "total_stars": 201,
+      "total_stars": 202,
       "total_forks": 31,
-      "total_open_issues": 4
+      "total_open_issues": 5
     },
     {
       "name": "finite-sample",
-      "total_repos": 59,
-      "total_stars": 278,
+      "total_repos": 60,
+      "total_stars": 282,
       "total_forks": 16,
-      "total_open_issues": 0
+      "total_open_issues": 2
     },
     {
       "name": "geosensing",
       "total_repos": 12,
       "total_stars": 35,
       "total_forks": 11,
-      "total_open_issues": 6
+      "total_open_issues": 10
     },
     {
       "name": "notnews",
