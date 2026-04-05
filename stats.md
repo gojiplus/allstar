@@ -1,15 +1,15 @@
 # 📈 GitHub Aggregate Stats
 
 - Total Entities: **10**
-- Total Repositories: **338**
-- Total Stars: **2098**
-- Total Forks: **470**
-- Total Open Issues: **98**
+- Total Repositories: **344**
+- Total Stars: **2107**
+- Total Forks: **469**
+- Total Open Issues: **102**
 
 ## 🚀 Detailed Breakdown
 
 ### 🏢 [soodoku (User)](https://github.com/soodoku)
-- Repositories: 62
+- Repositories: 63
 - Stars: 122
 - Forks: 20
 - Open Issues: 6
@@ -28,7 +28,7 @@
 
 ### 🏢 [appeler](https://github.com/appeler)
 - Repositories: 25
-- Stars: 406
+- Stars: 407
 - Forks: 95
 - Open Issues: 4
 
@@ -36,29 +36,29 @@
 - Repositories: 9
 - Stars: 13
 - Forks: 0
-- Open Issues: 6
+- Open Issues: 8
 
 ### 🏢 [themains](https://github.com/themains)
 - Repositories: 25
 - Stars: 202
-- Forks: 31
+- Forks: 30
 - Open Issues: 5
 
 ### 🏢 [finite-sample](https://github.com/finite-sample)
-- Repositories: 60
-- Stars: 282
+- Repositories: 65
+- Stars: 289
 - Forks: 16
-- Open Issues: 2
+- Open Issues: 1
 
 ### 🏢 [geosensing](https://github.com/geosensing)
 - Repositories: 12
 - Stars: 35
 - Forks: 11
-- Open Issues: 10
+- Open Issues: 13
 
 ### 🏢 [notnews](https://github.com/notnews)
 - Repositories: 38
-- Stars: 209
+- Stars: 210
 - Forks: 39
 - Open Issues: 2
 
