@@ -1,10 +1,10 @@
 # 📈 GitHub Aggregate Stats
 
 - Total Entities: **10**
-- Total Repositories: **348**
-- Total Stars: **2126**
-- Total Forks: **483**
-- Total Open Issues: **92**
+- Total Repositories: **350**
+- Total Stars: **2129**
+- Total Forks: **484**
+- Total Open Issues: **94**
 
 ## 🚀 Detailed Breakdown
 
@@ -21,8 +21,8 @@
 - Open Issues: 26
 
 ### 🏢 [in-rolls](https://github.com/in-rolls)
-- Repositories: 44
-- Stars: 151
+- Repositories: 46
+- Stars: 152
 - Forks: 62
 - Open Issues: 5
 
@@ -48,7 +48,7 @@
 - Repositories: 65
 - Stars: 291
 - Forks: 17
-- Open Issues: 12
+- Open Issues: 14
 
 ### 🏢 [geosensing](https://github.com/geosensing)
 - Repositories: 13
@@ -58,13 +58,13 @@
 
 ### 🏢 [notnews](https://github.com/notnews)
 - Repositories: 39
-- Stars: 214
+- Stars: 215
 - Forks: 39
 - Open Issues: 2
 
 ### 🏢 [outside-edge](https://github.com/outside-edge)
 - Repositories: 11
-- Stars: 241
-- Forks: 99
+- Stars: 242
+- Forks: 100
 - Open Issues: 21
 

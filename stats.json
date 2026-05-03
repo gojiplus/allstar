@@ -1,9 +1,9 @@
 {
   "total_entities": 10,
-  "total_repos": 348,
-  "total_stars": 2126,
-  "total_forks": 483,
-  "total_open_issues": 92,
+  "total_repos": 350,
+  "total_stars": 2129,
+  "total_forks": 484,
+  "total_open_issues": 94,
   "details": [
     {
       "name": "soodoku (User)",
@@ -21,8 +21,8 @@
     },
     {
       "name": "in-rolls",
-      "total_repos": 44,
-      "total_stars": 151,
+      "total_repos": 46,
+      "total_stars": 152,
       "total_forks": 62,
       "total_open_issues": 5
     },
@@ -52,7 +52,7 @@
       "total_repos": 65,
       "total_stars": 291,
       "total_forks": 17,
-      "total_open_issues": 12
+      "total_open_issues": 14
     },
     {
       "name": "geosensing",
@@ -64,15 +64,15 @@
     {
       "name": "notnews",
       "total_repos": 39,
-      "total_stars": 214,
+      "total_stars": 215,
       "total_forks": 39,
       "total_open_issues": 2
     },
     {
       "name": "outside-edge",
       "total_repos": 11,
-      "total_stars": 241,
-      "total_forks": 99,
+      "total_stars": 242,
+      "total_forks": 100,
       "total_open_issues": 21
     }
   ]
