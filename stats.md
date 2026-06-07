@@ -1,10 +1,10 @@
 # 📈 GitHub Aggregate Stats
 
 - Total Entities: **10**
-- Total Repositories: **358**
-- Total Stars: **2144**
+- Total Repositories: **359**
+- Total Stars: **2146**
 - Total Forks: **483**
-- Total Open Issues: **115**
+- Total Open Issues: **121**
 
 ## 🚀 Detailed Breakdown
 
@@ -16,15 +16,15 @@
 
 ### 🏢 [gojiplus](https://github.com/gojiplus)
 - Repositories: 53
-- Stars: 443
+- Stars: 444
 - Forks: 110
-- Open Issues: 34
+- Open Issues: 36
 
 ### 🏢 [in-rolls](https://github.com/in-rolls)
-- Repositories: 49
-- Stars: 155
+- Repositories: 50
+- Stars: 156
 - Forks: 63
-- Open Issues: 5
+- Open Issues: 6
 
 ### 🏢 [appeler](https://github.com/appeler)
 - Repositories: 25
@@ -36,17 +36,17 @@
 - Repositories: 9
 - Stars: 13
 - Forks: 0
-- Open Issues: 6
+- Open Issues: 7
 
 ### 🏢 [themains](https://github.com/themains)
 - Repositories: 26
-- Stars: 203
+- Stars: 204
 - Forks: 29
 - Open Issues: 3
 
 ### 🏢 [finite-sample](https://github.com/finite-sample)
 - Repositories: 65
-- Stars: 292
+- Stars: 291
 - Forks: 17
 - Open Issues: 19
 
@@ -54,7 +54,7 @@
 - Repositories: 16
 - Stars: 38
 - Forks: 11
-- Open Issues: 12
+- Open Issues: 14
 
 ### 🏢 [notnews](https://github.com/notnews)
 - Repositories: 39
