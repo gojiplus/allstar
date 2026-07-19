@@ -1,14 +1,14 @@
 {
   "total_entities": 10,
   "total_repos": 365,
-  "total_stars": 2167,
-  "total_forks": 485,
-  "total_open_issues": 147,
+  "total_stars": 2171,
+  "total_forks": 486,
+  "total_open_issues": 151,
   "details": [
     {
       "name": "soodoku (User)",
       "total_repos": 67,
-      "total_stars": 128,
+      "total_stars": 129,
       "total_forks": 20,
       "total_open_issues": 7
     },
@@ -16,22 +16,22 @@
       "name": "gojiplus",
       "total_repos": 53,
       "total_stars": 444,
-      "total_forks": 112,
-      "total_open_issues": 49
+      "total_forks": 113,
+      "total_open_issues": 52
     },
     {
       "name": "in-rolls",
       "total_repos": 53,
-      "total_stars": 161,
+      "total_stars": 163,
       "total_forks": 62,
       "total_open_issues": 6
     },
     {
       "name": "appeler",
       "total_repos": 25,
-      "total_stars": 417,
+      "total_stars": 418,
       "total_forks": 93,
-      "total_open_issues": 5
+      "total_open_issues": 6
     },
     {
       "name": "matmulai",

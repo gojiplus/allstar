@@ -2,35 +2,35 @@
 
 - Total Entities: **10**
 - Total Repositories: **365**
-- Total Stars: **2167**
-- Total Forks: **485**
-- Total Open Issues: **147**
+- Total Stars: **2171**
+- Total Forks: **486**
+- Total Open Issues: **151**
 
 ## 🚀 Detailed Breakdown
 
 ### 🏢 [soodoku (User)](https://github.com/soodoku)
 - Repositories: 67
-- Stars: 128
+- Stars: 129
 - Forks: 20
 - Open Issues: 7
 
 ### 🏢 [gojiplus](https://github.com/gojiplus)
 - Repositories: 53
 - Stars: 444
-- Forks: 112
-- Open Issues: 49
+- Forks: 113
+- Open Issues: 52
 
 ### 🏢 [in-rolls](https://github.com/in-rolls)
 - Repositories: 53
-- Stars: 161
+- Stars: 163
 - Forks: 62
 - Open Issues: 6
 
 ### 🏢 [appeler](https://github.com/appeler)
 - Repositories: 25
-- Stars: 417
+- Stars: 418
 - Forks: 93
-- Open Issues: 5
+- Open Issues: 6
 
 ### 🏢 [matmulai](https://github.com/matmulai)
 - Repositories: 9
