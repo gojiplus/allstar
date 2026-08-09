@@ -1,37 +1,37 @@
 {
   "total_entities": 10,
-  "total_repos": 382,
-  "total_stars": 2190,
+  "total_repos": 391,
+  "total_stars": 2196,
   "total_forks": 487,
-  "total_open_issues": 195,
+  "total_open_issues": 231,
   "details": [
     {
       "name": "soodoku (User)",
-      "total_repos": 75,
+      "total_repos": 79,
       "total_stars": 129,
       "total_forks": 20,
       "total_open_issues": 7
     },
     {
       "name": "gojiplus",
-      "total_repos": 58,
-      "total_stars": 449,
+      "total_repos": 59,
+      "total_stars": 450,
       "total_forks": 113,
-      "total_open_issues": 70
+      "total_open_issues": 85
     },
     {
       "name": "in-rolls",
-      "total_repos": 56,
-      "total_stars": 167,
+      "total_repos": 58,
+      "total_stars": 169,
       "total_forks": 62,
-      "total_open_issues": 6
+      "total_open_issues": 7
     },
     {
       "name": "appeler",
       "total_repos": 25,
       "total_stars": 423,
       "total_forks": 93,
-      "total_open_issues": 35
+      "total_open_issues": 31
     },
     {
       "name": "matmulai",
@@ -43,35 +43,35 @@
     {
       "name": "themains",
       "total_repos": 26,
-      "total_stars": 205,
-      "total_forks": 29,
-      "total_open_issues": 3
+      "total_stars": 206,
+      "total_forks": 30,
+      "total_open_issues": 7
     },
     {
       "name": "finite-sample",
-      "total_repos": 66,
-      "total_stars": 299,
-      "total_forks": 19,
-      "total_open_issues": 8
+      "total_repos": 68,
+      "total_stars": 300,
+      "total_forks": 18,
+      "total_open_issues": 22
     },
     {
       "name": "geosensing",
       "total_repos": 16,
       "total_stars": 38,
       "total_forks": 11,
-      "total_open_issues": 24
+      "total_open_issues": 28
     },
     {
       "name": "notnews",
       "total_repos": 40,
       "total_stars": 222,
       "total_forks": 40,
-      "total_open_issues": 13
+      "total_open_issues": 15
     },
     {
       "name": "outside-edge",
       "total_repos": 11,
-      "total_stars": 245,
+      "total_stars": 246,
       "total_forks": 100,
       "total_open_issues": 21
     }
