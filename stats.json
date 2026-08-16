@@ -1,37 +1,37 @@
 {
   "total_entities": 10,
-  "total_repos": 391,
-  "total_stars": 2196,
+  "total_repos": 394,
+  "total_stars": 2201,
   "total_forks": 487,
-  "total_open_issues": 231,
+  "total_open_issues": 195,
   "details": [
     {
       "name": "soodoku (User)",
-      "total_repos": 79,
-      "total_stars": 129,
+      "total_repos": 66,
+      "total_stars": 127,
       "total_forks": 20,
       "total_open_issues": 7
     },
     {
       "name": "gojiplus",
-      "total_repos": 59,
-      "total_stars": 450,
+      "total_repos": 66,
+      "total_stars": 454,
       "total_forks": 113,
-      "total_open_issues": 85
+      "total_open_issues": 65
     },
     {
       "name": "in-rolls",
       "total_repos": 58,
-      "total_stars": 169,
+      "total_stars": 170,
       "total_forks": 62,
-      "total_open_issues": 7
+      "total_open_issues": 5
     },
     {
       "name": "appeler",
-      "total_repos": 25,
+      "total_repos": 26,
       "total_stars": 423,
       "total_forks": 93,
-      "total_open_issues": 31
+      "total_open_issues": 20
     },
     {
       "name": "matmulai",
@@ -42,31 +42,31 @@
     },
     {
       "name": "themains",
-      "total_repos": 26,
-      "total_stars": 206,
+      "total_repos": 27,
+      "total_stars": 205,
       "total_forks": 30,
-      "total_open_issues": 7
+      "total_open_issues": 8
     },
     {
       "name": "finite-sample",
-      "total_repos": 68,
+      "total_repos": 74,
       "total_stars": 300,
       "total_forks": 18,
-      "total_open_issues": 22
+      "total_open_issues": 23
     },
     {
       "name": "geosensing",
       "total_repos": 16,
       "total_stars": 38,
       "total_forks": 11,
-      "total_open_issues": 28
+      "total_open_issues": 29
     },
     {
       "name": "notnews",
-      "total_repos": 40,
-      "total_stars": 222,
+      "total_repos": 41,
+      "total_stars": 225,
       "total_forks": 40,
-      "total_open_issues": 15
+      "total_open_issues": 9
     },
     {
       "name": "outside-edge",
