@@ -1,9 +1,9 @@
 {
   "total_entities": 10,
-  "total_repos": 400,
-  "total_stars": 2211,
-  "total_forks": 486,
-  "total_open_issues": 155,
+  "total_repos": 403,
+  "total_stars": 2233,
+  "total_forks": 487,
+  "total_open_issues": 139,
   "details": [
     {
       "name": "soodoku (User)",
@@ -14,15 +14,15 @@
     },
     {
       "name": "gojiplus",
-      "total_repos": 68,
-      "total_stars": 458,
-      "total_forks": 113,
-      "total_open_issues": 71
+      "total_repos": 69,
+      "total_stars": 473,
+      "total_forks": 114,
+      "total_open_issues": 50
     },
     {
       "name": "in-rolls",
-      "total_repos": 58,
-      "total_stars": 171,
+      "total_repos": 60,
+      "total_stars": 174,
       "total_forks": 62,
       "total_open_issues": 6
     },
@@ -31,7 +31,7 @@
       "total_repos": 27,
       "total_stars": 423,
       "total_forks": 93,
-      "total_open_issues": 3
+      "total_open_issues": 4
     },
     {
       "name": "matmulai",
@@ -50,9 +50,9 @@
     {
       "name": "finite-sample",
       "total_repos": 76,
-      "total_stars": 304,
+      "total_stars": 305,
       "total_forks": 17,
-      "total_open_issues": 8
+      "total_open_issues": 12
     },
     {
       "name": "geosensing",
@@ -71,7 +71,7 @@
     {
       "name": "outside-edge",
       "total_repos": 11,
-      "total_stars": 246,
+      "total_stars": 249,
       "total_forks": 100,
       "total_open_issues": 21
     }
