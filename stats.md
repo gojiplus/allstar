@@ -1,10 +1,10 @@
 # 📈 GitHub Aggregate Stats
 
 - Total Entities: **10**
-- Total Repositories: **403**
-- Total Stars: **2233**
-- Total Forks: **487**
-- Total Open Issues: **139**
+- Total Repositories: **406**
+- Total Stars: **2242**
+- Total Forks: **489**
+- Total Open Issues: **150**
 
 ## 🚀 Detailed Breakdown
 
@@ -15,20 +15,20 @@
 - Open Issues: 7
 
 ### 🏢 [gojiplus](https://github.com/gojiplus)
-- Repositories: 69
-- Stars: 473
-- Forks: 114
-- Open Issues: 50
+- Repositories: 70
+- Stars: 474
+- Forks: 115
+- Open Issues: 58
 
 ### 🏢 [in-rolls](https://github.com/in-rolls)
-- Repositories: 60
-- Stars: 174
-- Forks: 62
+- Repositories: 62
+- Stars: 179
+- Forks: 63
 - Open Issues: 6
 
 ### 🏢 [appeler](https://github.com/appeler)
 - Repositories: 27
-- Stars: 423
+- Stars: 424
 - Forks: 93
 - Open Issues: 4
 
@@ -36,11 +36,11 @@
 - Repositories: 9
 - Stars: 13
 - Forks: 0
-- Open Issues: 8
+- Open Issues: 9
 
 ### 🏢 [themains](https://github.com/themains)
 - Repositories: 27
-- Stars: 205
+- Stars: 206
 - Forks: 30
 - Open Issues: 5
 
@@ -48,11 +48,11 @@
 - Repositories: 76
 - Stars: 305
 - Forks: 17
-- Open Issues: 12
+- Open Issues: 13
 
 ### 🏢 [geosensing](https://github.com/geosensing)
 - Repositories: 16
-- Stars: 38
+- Stars: 39
 - Forks: 11
 - Open Issues: 23
 
@@ -60,7 +60,7 @@
 - Repositories: 41
 - Stars: 225
 - Forks: 40
-- Open Issues: 3
+- Open Issues: 4
 
 ### 🏢 [outside-edge](https://github.com/outside-edge)
 - Repositories: 11
