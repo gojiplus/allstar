@@ -1,58 +1,58 @@
 {
   "total_entities": 10,
-  "total_repos": 404,
-  "total_stars": 2287,
+  "total_repos": 386,
+  "total_stars": 2281,
   "total_forks": 492,
-  "total_open_issues": 184,
+  "total_open_issues": 180,
   "details": [
     {
       "name": "soodoku (User)",
-      "total_repos": 68,
-      "total_stars": 154,
-      "total_forks": 21,
-      "total_open_issues": 17
+      "total_repos": 57,
+      "total_stars": 117,
+      "total_forks": 12,
+      "total_open_issues": 14
     },
     {
       "name": "gojiplus",
-      "total_repos": 71,
+      "total_repos": 68,
       "total_stars": 483,
-      "total_forks": 115,
-      "total_open_issues": 77
+      "total_forks": 116,
+      "total_open_issues": 75
     },
     {
       "name": "in-rolls",
-      "total_repos": 69,
-      "total_stars": 186,
-      "total_forks": 65,
+      "total_repos": 70,
+      "total_stars": 187,
+      "total_forks": 64,
       "total_open_issues": 8
     },
     {
       "name": "appeler",
-      "total_repos": 27,
-      "total_stars": 426,
-      "total_forks": 93,
-      "total_open_issues": 10
+      "total_repos": 26,
+      "total_stars": 425,
+      "total_forks": 92,
+      "total_open_issues": 11
     },
     {
       "name": "matmulai",
-      "total_repos": 5,
-      "total_stars": 5,
+      "total_repos": 1,
+      "total_stars": 1,
       "total_forks": 0,
       "total_open_issues": 0
     },
     {
       "name": "themains",
-      "total_repos": 27,
-      "total_stars": 206,
-      "total_forks": 30,
+      "total_repos": 28,
+      "total_stars": 210,
+      "total_forks": 31,
       "total_open_issues": 6
     },
     {
       "name": "finite-sample",
       "total_repos": 69,
-      "total_stars": 310,
-      "total_forks": 17,
-      "total_open_issues": 10
+      "total_stars": 342,
+      "total_forks": 25,
+      "total_open_issues": 12
     },
     {
       "name": "geosensing",
@@ -63,10 +63,10 @@
     },
     {
       "name": "notnews",
-      "total_repos": 42,
-      "total_stars": 228,
-      "total_forks": 40,
-      "total_open_issues": 11
+      "total_repos": 41,
+      "total_stars": 227,
+      "total_forks": 41,
+      "total_open_issues": 9
     },
     {
       "name": "outside-edge",
