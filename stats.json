@@ -1,30 +1,30 @@
 {
   "total_entities": 11,
-  "total_repos": 410,
-  "total_stars": 2390,
-  "total_forks": 502,
-  "total_open_issues": 193,
+  "total_repos": 415,
+  "total_stars": 2391,
+  "total_forks": 503,
+  "total_open_issues": 223,
   "details": [
     {
       "name": "soodoku (User)",
-      "total_repos": 56,
-      "total_stars": 115,
+      "total_repos": 60,
+      "total_stars": 116,
       "total_forks": 10,
       "total_open_issues": 14
     },
     {
       "name": "gojiplus",
       "total_repos": 67,
-      "total_stars": 482,
+      "total_stars": 477,
       "total_forks": 115,
-      "total_open_issues": 74
+      "total_open_issues": 90
     },
     {
       "name": "in-rolls",
       "total_repos": 70,
-      "total_stars": 187,
+      "total_stars": 188,
       "total_forks": 64,
-      "total_open_issues": 10
+      "total_open_issues": 13
     },
     {
       "name": "appeler",
@@ -45,33 +45,33 @@
       "total_repos": 28,
       "total_stars": 210,
       "total_forks": 31,
-      "total_open_issues": 6
+      "total_open_issues": 9
     },
     {
       "name": "finite-sample",
-      "total_repos": 69,
+      "total_repos": 70,
       "total_stars": 342,
-      "total_forks": 25,
-      "total_open_issues": 12
+      "total_forks": 26,
+      "total_open_issues": 10
     },
     {
       "name": "geosensing",
       "total_repos": 16,
       "total_stars": 40,
       "total_forks": 11,
-      "total_open_issues": 24
+      "total_open_issues": 25
     },
     {
       "name": "notnews",
-      "total_repos": 40,
-      "total_stars": 228,
+      "total_repos": 41,
+      "total_stars": 230,
       "total_forks": 41,
-      "total_open_issues": 9
+      "total_open_issues": 12
     },
     {
       "name": "outside-edge",
-      "total_repos": 10,
-      "total_stars": 249,
+      "total_repos": 9,
+      "total_stars": 251,
       "total_forks": 100,
       "total_open_issues": 21
     },
@@ -80,7 +80,7 @@
       "total_repos": 27,
       "total_stars": 111,
       "total_forks": 13,
-      "total_open_issues": 12
+      "total_open_issues": 18
     }
   ]
 }
