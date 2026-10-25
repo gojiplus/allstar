@@ -1,37 +1,37 @@
 {
   "total_entities": 11,
-  "total_repos": 415,
-  "total_stars": 2391,
-  "total_forks": 503,
-  "total_open_issues": 223,
+  "total_repos": 423,
+  "total_stars": 2402,
+  "total_forks": 504,
+  "total_open_issues": 50,
   "details": [
     {
       "name": "soodoku (User)",
-      "total_repos": 60,
+      "total_repos": 59,
       "total_stars": 116,
       "total_forks": 10,
-      "total_open_issues": 14
+      "total_open_issues": 12
     },
     {
       "name": "gojiplus",
-      "total_repos": 67,
-      "total_stars": 477,
+      "total_repos": 70,
+      "total_stars": 479,
       "total_forks": 115,
-      "total_open_issues": 90
+      "total_open_issues": 12
     },
     {
       "name": "in-rolls",
-      "total_repos": 70,
-      "total_stars": 188,
+      "total_repos": 76,
+      "total_stars": 194,
       "total_forks": 64,
-      "total_open_issues": 13
+      "total_open_issues": 4
     },
     {
       "name": "appeler",
       "total_repos": 26,
       "total_stars": 425,
       "total_forks": 92,
-      "total_open_issues": 11
+      "total_open_issues": 4
     },
     {
       "name": "matmulai",
@@ -45,42 +45,42 @@
       "total_repos": 28,
       "total_stars": 210,
       "total_forks": 31,
-      "total_open_issues": 9
+      "total_open_issues": 4
     },
     {
       "name": "finite-sample",
-      "total_repos": 70,
-      "total_stars": 342,
+      "total_repos": 71,
+      "total_stars": 344,
       "total_forks": 26,
-      "total_open_issues": 10
+      "total_open_issues": 3
     },
     {
       "name": "geosensing",
       "total_repos": 16,
       "total_stars": 40,
       "total_forks": 11,
-      "total_open_issues": 25
+      "total_open_issues": 0
     },
     {
       "name": "notnews",
       "total_repos": 41,
       "total_stars": 230,
       "total_forks": 41,
-      "total_open_issues": 12
+      "total_open_issues": 2
     },
     {
       "name": "outside-edge",
       "total_repos": 9,
-      "total_stars": 251,
-      "total_forks": 100,
-      "total_open_issues": 21
+      "total_stars": 252,
+      "total_forks": 101,
+      "total_open_issues": 0
     },
     {
       "name": "recite",
-      "total_repos": 27,
+      "total_repos": 26,
       "total_stars": 111,
       "total_forks": 13,
-      "total_open_issues": 18
+      "total_open_issues": 9
     }
   ]
 }
